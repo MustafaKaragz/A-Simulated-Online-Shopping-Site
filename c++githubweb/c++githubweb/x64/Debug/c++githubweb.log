@@ -1,0 +1,9 @@
+﻿  webgithub.cpp
+C:\Users\Casperr.Mustafa\Desktop\Visual Studio\C++\c++githubweb\c++githubweb\webgithub.cpp(352,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Casperr.Mustafa\Desktop\Visual Studio\C++\c++githubweb\c++githubweb\webgithub.cpp(369,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Casperr.Mustafa\Desktop\Visual Studio\C++\c++githubweb\c++githubweb\webgithub.cpp(668,34): message : see reference to function template instantiation 'void updateTotalPrice<Book>(Cart &,T &)' being compiled
+          with
+          [
+              T=Book
+          ]
+  c++githubweb.vcxproj -> C:\Users\Casperr.Mustafa\Desktop\Visual Studio\C++\c++githubweb\x64\Debug\c++githubweb.exe
